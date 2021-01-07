@@ -15,6 +15,7 @@
 		9C1D8153259F77660054E912 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9C1D8151259F77660054E912 /* LaunchScreen.storyboard */; };
 		9C1D815E259F77670054E912 /* shareTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C1D815D259F77670054E912 /* shareTests.swift */; };
 		9C1D8169259F77670054E912 /* shareUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C1D8168259F77670054E912 /* shareUITests.swift */; };
+		9C361B5825A6C7D000F5E412 /* checkPermissipn.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9C361B5725A6C7CF00F5E412 /* checkPermissipn.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		9C1D8164259F77670054E912 /* shareUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = shareUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9C1D8168259F77670054E912 /* shareUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = shareUITests.swift; sourceTree = "<group>"; };
 		9C1D816A259F77670054E912 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9C361B5725A6C7CF00F5E412 /* checkPermissipn.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = checkPermissipn.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -102,6 +104,7 @@
 				9C1D8146259F77620054E912 /* AppDelegate.swift */,
 				9C1D8148259F77620054E912 /* SceneDelegate.swift */,
 				9C1D814A259F77620054E912 /* ViewController.swift */,
+				9C361B5725A6C7CF00F5E412 /* checkPermissipn.swift */,
 				9C1D814C259F77620054E912 /* Main.storyboard */,
 				9C1D814F259F77660054E912 /* Assets.xcassets */,
 				9C1D8151259F77660054E912 /* LaunchScreen.storyboard */,
@@ -258,6 +261,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9C361B5825A6C7D000F5E412 /* checkPermissipn.swift in Sources */,
 				9C1D814B259F77620054E912 /* ViewController.swift in Sources */,
 				9C1D8147259F77620054E912 /* AppDelegate.swift in Sources */,
 				9C1D8149259F77620054E912 /* SceneDelegate.swift in Sources */,
